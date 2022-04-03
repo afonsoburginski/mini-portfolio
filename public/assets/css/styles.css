@@ -16,12 +16,12 @@
   --sat: 100%;
   --lig: 67%;
   --first-color: hsl(var(--hue), var(--sat), var(--lig));
-  --first-color-alt: hsl(var(--hue), var(--sat), 57%); /* -4% */
+  --first-color-alt: hsl(var(--hue), var(--sat), 70%); /* -4% */
   --title-color: hsl(var(--hue), 12%, 15%);
   --text-color: hsl(var(--hue), 12%, 45%);
   --text-color-light: hsl(var(--hue), 8%, 75%);
   --text-color-lighten: hsl(var(--hue), 8%, 92%);
-  --body-color: hsl(var(--hue), 100%, 99%);
+  --body-color: hsl(var(--hue), 100%, 67%);
   --container-color: #fff;
 
   /*========== Font and typography ==========*/
